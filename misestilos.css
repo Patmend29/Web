@@ -1,0 +1,63 @@
+p{
+    color: black;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Chivo Mono', monospace; 
+}
+
+nav {
+    text-align: center; 
+    color: black; 
+    font-size: 20;
+    text-decoration: none;
+    font-family: 'Chivo Mono', monospace;;
+}
+
+h2{
+    
+font-family: 'Chivo Mono', monospace;
+margin: 50px;
+text-align: centercs;}
+
+a 
+{text-decoration: none;
+}
+
+body{
+    background-image: url(media/fondo.jpg);
+    background-size: cover;
+    
+    
+}
+
+@font-face {
+    font-family: "android";
+    src: url("fonts/Android.ttf");
+  }
+
+a:link 
+{color:black;
+}
+
+a:visited {color: black;
+}
+
+p{
+    font-family: 'Chivo Mono', monospace; 
+    margin: 50px;  
+    
+}
+header{margin: 30px;
+        padding: 5px;
+    }
+
+    footer { @font-face 
+        font-family:'Chivo Mono', monospace; 
+        margin: 50px;  
+    
+    }
+    #justi {text-align: justify; line-height: 30px;}cs
+    
